@@ -1,16 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://kristina-mukha.github.io/portfolio/" title="Watch Full Portfolio">
+    <img src="header.png" alt="Hi, I'm Kristina Mukha"/>
+  </a>
+</p>
 
-<!--
-**kristina-mukha/kristina-mukha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://kristina-mukha.github.io/react-pizza-v2/" title="Watch React Pizza Demo">
+    <img src="react-pizza.jpg" alt="React Pizza Demo"/>
+  </a>
+</p>
