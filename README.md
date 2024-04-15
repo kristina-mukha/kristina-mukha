@@ -5,3 +5,5 @@
 ## ПОРТФОЛИО
 
 [![Github Pages](https://img.shields.io/badge/сайт%20для%20заказа%20пиццы-121013?style=for-the-badge&logo=github&logoColor=white 'React Pizza | Смотреть демо')](https://kristina-mukha.github.io/react-pizza-v2/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kristina-mukha&repo=react-pizza-v2)](https://github.com/anuraghazra/github-readme-stats)
