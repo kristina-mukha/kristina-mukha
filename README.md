@@ -4,4 +4,4 @@
 
 ## ПОРТФОЛИО
 
-[![Github Pages](https://img.shields.io/badge/сайт%20для%20заказа%20пиццы-121013?style=for-the-badge&logo=github&logoColor=white 'React Pizza | Смотреть демо')](https://kristina-mukha.github.io/react-pizza-v2/)
+[![Github Pages](https://img.shields.io/badge/сайт%20для%20заказа%20пиццы-121013?style=for-the-badge&logo=github&logoColor=orange 'React Pizza | Смотреть демо')](https://kristina-mukha.github.io/react-pizza-v2/) [![Github Pages](https://img.shields.io/badge/магазин%20техники-121013?style=for-the-badge&logo=github&logoColor=blue 'Shop Tech | Смотреть демо')](https://kristina-mukha.github.io/shop-tech/)
